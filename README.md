@@ -28,3 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhal97dhruv&show_icons=true&locale=en" alt="singhal97dhruv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhal97dhruv&" alt="singhal97dhruv" /></p>
+
+<p align="center">
+You have stayed on my page for:
+</p>
+
+<p align="center">
+<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+</p>
