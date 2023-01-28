@@ -27,5 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhal97dhruv&theme=tokyonight_duo&hide_border=true" alt="singhal97dhruv" />
 </p>
 <h2 align="center">Snake eaten my work as Snack 🐍</h2>
-
-![snake gif](https://github.com/Singhal97dhruv/Singhal97dhruv/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/Singhal97dhruv/Singhal97dhruv/blob/output/github-contribution-grid-snake.svg" /></p>
+<!-- ![snake gif](https://github.com/Singhal97dhruv/Singhal97dhruv/blob/output/github-contribution-grid-snake.gif) -->
