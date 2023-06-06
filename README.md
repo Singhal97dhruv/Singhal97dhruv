@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 Hey ! , myself Dhruv Singhal . I am a 3rd year student of BTech CSE course.<br>In technology I am a full stack developer with decent problem solving skill.<br>Completed Around ~1000+ problems on LEETCODE .<br>Done various Projects using MERN Stack technology and open Source contributions also.<br>Seeking forward to gain more experience to be reputedly able to stand in front of tech geeks.<br>HOPE my coming future journey would be even more interesting.
 
 
