@@ -1,5 +1,9 @@
 # 💫 About Me: <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-Hey ! , myself Dhruv Singhal . I am a final year student of BTech CSE course.<br>In technology I am a full stack developer with decent problem solving skill..<br>Completed Around 1100+ problems on LEETCODE .<br>Done various Projects using MERN Stack technology and open Source contributions also.<br>Seeking forward to gain more experience to be reputedly able to stand in front of tech geeks.<br>HOPE my coming future journey would be even more interesting.
+Hey! I’m Dhruv Singhal, a working professional at Accenture.<br>
+I’m a Java Full Stack Developer with strong problem-solving skills.<br>
+I’ve solved 1400+ problems on LeetCode.<br>
+I have crafted multiple projects using the MERN Stack, and I’m now focusing on Microservices Architecture to build Spring Boot-based projects.<br>
+I’m eager to gain more experience and grow to confidently stand among the best in the tech community.
 
 
 ## 🌐 Socials:
@@ -20,5 +24,5 @@ Hey ! , myself Dhruv Singhal . I am a final year student of BTech CSE course.<br
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="center">Snake eaten my work as Snack 🐍</h2>
-<img src="https://github.com/Singhal97dhruv/Singhal97dhruv/blob/output/github-contribution-grid-snake.svg" /></p>
+<img src="https://github.com/Singhal97dhruv/Singhal97dhruv/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 <!-- ![snake gif](https://github.com/Singhal97dhruv/Singhal97dhruv/blob/output/github-contribution-grid-snake.gif) -->
